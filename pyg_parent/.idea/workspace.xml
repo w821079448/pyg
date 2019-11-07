@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web_manager:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c47fa69-263d-488c-a6f2-99741259065a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/dao/target/" />
+    <ignored path="$PROJECT_DIR$/web_manager/target/" />
+    <ignored path="$PROJECT_DIR$/web_shop/target/" />
+    <ignored path="$PROJECT_DIR$/web_portal/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/service_sellergoods/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/service_search/target/" />
+    <ignored path="$PROJECT_DIR$/solr_util/target/" />
+    <ignored path="$PROJECT_DIR$/interface/target/" />
+    <ignored path="$PROJECT_DIR$/pojo/target/" />
+    <ignored path="$PROJECT_DIR$/service_page/target/" />
+    <ignored path="$PROJECT_DIR$/service_user/target/" />
+    <ignored path="$PROJECT_DIR$/web_user/target/" />
+    <ignored path="$PROJECT_DIR$/service_buyer/target/" />
+    <ignored path="$PROJECT_DIR$/../springSecurityDemo1/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/item_cat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/js/controller/itemCatController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2507">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/ItemCatController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/ItemCatServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/item/ItemCatDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/item/ItemCatDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="201" selection-start-line="201" selection-end-line="201" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-713">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/ItemQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/SellerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/BrandService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reloadList</find>
+      <find>entity</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/test/java/cn/itcast/core/test/TestBrandDao.java" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/entity/PageResult.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/entity/Result.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/good/Brand.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/admin/brand.html" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/admin/specification.html" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/js/service/specificationService.js" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/entity/SpecEntity.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/js/controller/specificationController.js" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/admin/type_template.html" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/good/BrandDao.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/SpecController.java" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/specification/SpecificationDao.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/specification/SpecificationDao.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/TemplateController.java" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/TemplateService.java" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/TemplateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../springSecurityDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/SpecificationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/admin/seller_1.html" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/seller/SellerDao.java" />
+        <option value="$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/seller/Seller.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/SellerService.java" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/SellerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web_shop/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web_shop/src/main/java/cn/itcast/core/service/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web_shop/src/main/java/cn/itcast/core/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/web_shop/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/ItemCatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/item/ItemCatDao.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/item/ItemCatDao.xml" />
+        <option value="$PROJECT_DIR$/web_manager/src/main/webapp/js/controller/itemCatController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="107" />
+    <option name="y" value="47" />
+    <option name="width" value="1267" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyg_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sellergoods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="service_sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\code\pyg_parent\web_manager\src\main\webapp\admin" />
+      <recent name="D:\java\code\pyg_parent\web_manager\src\main\webapp" />
+      <recent name="D:\java\code\pyg_parent\web_manager\src\main\resources" />
+      <recent name="D:\java\code\pyg_parent\service_sellergoods\src\main\resources" />
+      <recent name="D:\java\code\pyg_parent\dao\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.web-manager">
+    <configuration name="TestBrandDao.testfindBrandById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_sellergoods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.core.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.core.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.core.test.TestBrandDao" />
+      <option name="METHOD_NAME" value="testfindBrandById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-buyer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="service_buyer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="service-page_(1)_pyg_parent" />
+        <option name="HTTP_PORT" value="8087" />
+        <option name="JNDI_PORT" value="1097" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54894" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="service_buyer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="service-page" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="service_page:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="service-sellergoods_(1)_pyg_parent" />
+        <option name="HTTP_PORT" value="8086" />
+        <option name="JNDI_PORT" value="1096" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54894" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="service_page:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="service-search" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="service_search:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_pyg_parent_5" />
+        <option name="HTTP_PORT" value="8085" />
+        <option name="JNDI_PORT" value="1095" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54902" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="service_search:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="service-sellergoods" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="service_sellergoods:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_pyg_parent_4" />
+        <option name="HTTP_PORT" value="8084" />
+        <option name="JNDI_PORT" value="1094" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54894" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="service_sellergoods:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="service-user" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="service_user:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="service-buyer_(1)_pyg_parent_2" />
+        <option name="HTTP_PORT" value="8088" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54894" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="service_user:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="web-manager" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web_manager:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="web-portal_(1)_pyg_parent" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1091" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54803" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web_manager:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="web-portal" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web_portal:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_pyg_parent" />
+        <option name="JNDI_PORT" value="1090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54803" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web_portal:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="web-shop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web_shop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_pyg_parent_2" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54881" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web_shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="web-user" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms128m -Xmx128m -XX:PermSize=64m -XX:MaxPermSize=128m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web_user:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_pyg_parent_3" />
+        <option name="HTTP_PORT" value="8083" />
+        <option name="JNDI_PORT" value="1093" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54888" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web_user:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestBrandDao.testfindBrandById" />
+      <item itemvalue="Tomcat Server.web-portal" />
+      <item itemvalue="Tomcat Server.web-manager" />
+      <item itemvalue="Tomcat Server.web-shop" />
+      <item itemvalue="Tomcat Server.web-user" />
+      <item itemvalue="Tomcat Server.service-sellergoods" />
+      <item itemvalue="Tomcat Server.service-search" />
+      <item itemvalue="Tomcat Server.service-page" />
+      <item itemvalue="Tomcat Server.service-buyer" />
+      <item itemvalue="Tomcat Server.service-user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestBrandDao.testfindBrandById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\w\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c47fa69-263d-488c-a6f2-99741259065a" name="Default Changelist" comment="" />
+      <created>1572413282697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572413282697</updated>
+      <workItem from="1572413283854" duration="3951000" />
+      <workItem from="1572417263972" duration="12305000" />
+      <workItem from="1572482782483" duration="4275000" />
+      <workItem from="1572487110129" duration="601000" />
+      <workItem from="1572487748603" duration="9737000" />
+      <workItem from="1572501679251" duration="3507000" />
+      <workItem from="1572506000400" duration="238000" />
+      <workItem from="1572595060943" duration="137000" />
+      <workItem from="1572836868428" duration="69000" />
+      <workItem from="1572844000353" duration="4864000" />
+      <workItem from="1572851936402" duration="8926000" />
+      <workItem from="1572860874271" duration="766000" />
+      <workItem from="1572918652927" duration="7339000" />
+      <workItem from="1572933982313" duration="1711000" />
+      <workItem from="1572936141918" duration="3406000" />
+      <workItem from="1572944273992" duration="846000" />
+      <workItem from="1573004685402" duration="5808000" />
+      <workItem from="1573020244313" duration="697000" />
+      <workItem from="1573024344721" duration="2190000" />
+      <workItem from="1573031268693" duration="118000" />
+      <workItem from="1573031624196" duration="497000" />
+      <workItem from="1573096910837" duration="45000" />
+      <workItem from="1573096992626" duration="184000" />
+      <workItem from="1573097200549" duration="3111000" />
+      <workItem from="1573108168929" duration="2893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBrandDao_testfindBrandById - 2019.10.30 at 15h 00m 48s.xml">
+      <configuration name="TestBrandDao.testfindBrandById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBrandDao_testfindBrandById - 2019.10.30 at 15h 01m 19s.xml">
+      <configuration name="TestBrandDao.testfindBrandById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78221000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="107" y="47" width="1267" height="920" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27920464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.2515883" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Application Servers" order="3" weight="0.25540024" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3227446" />
+      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.27064803" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3283582" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32537314" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24881141" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.1942605" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/../springSecurityDemo1/pom.xml">
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/shoplogin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/js/controller/sellerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/js/service/sellerService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/seller.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/entity/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/ItemCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/ItemCatQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/address/CitiesDao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/good/BrandDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="98" column="39" selection-start-line="98" selection-start-column="37" selection-end-line="98" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/plugins/angularjs/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="48" column="203" selection-start-line="48" selection-start-column="193" selection-end-line="48" selection-end-column="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/type_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="63" column="81" selection-start-line="63" selection-start-column="76" selection-end-line="63" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/specification.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/js/controller/sellerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/good/BrandDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/seller/SellerQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/SpecificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/SpecificationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/SpecController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/seller/SellerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/SellerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/ad/ContentCategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/admin/seller.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/seller/SellerDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9545">
+          <caret line="415" column="33" selection-start-line="415" selection-start-column="33" selection-end-line="415" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/seller/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2921">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/SellerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/seller_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/js/service/sellerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.1.0.RELEASE/spring-security-core-4.1.0.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/java/cn/itcast/core/service/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/java/cn/itcast/core/controller/SellerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_shop/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/js/service/itemCatService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2720#2721#0" expanded="true" />
+            <element signature="e#2770#2771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/SellerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/src/main/java/cn/itcast/core/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/ItemQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pojo/src/main/java/cn/itcast/core/pojo/item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/java/cn/itcast/core/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/cn/itcast/core/dao/item/ItemCatDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/cn/itcast/core/dao/item/ItemCatDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service_sellergoods/src/main/java/cn/itcast/core/service/ItemCatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/admin/item_cat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_manager/src/main/webapp/js/controller/itemCatController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2507">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>service_buyer:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>solr_util</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
